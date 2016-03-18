@@ -1,5 +1,6 @@
 // bootstrapnya pake yang ini ya:
 // ---- https://angular-ui.github.io/bootstrap/
+
 // declare a module
 var myAppModule = angular.module('myModule', ['ui.bootstrap']);
 
